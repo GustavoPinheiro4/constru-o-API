@@ -1,7 +1,7 @@
 # API de Produtos - SENAI
 
 API REST introdutória construída com **FastAPI**. O projeto demonstra operações CRUD (criar, consultar, atualizar e remover produtos) usando endpoints HTTP e dados mantidos em memória.
-
+![](https://github.com/GustavoPinheiro4/constru-o-API/blob/main/img/Captura%20de%20tela_22-10-2026_163933_urban-palm-tree-g4w79gvq97j53wpgg-8000.app.github.dev.jpeg)
 ## Tecnologias
 
 - Python
